@@ -32,7 +32,7 @@ The quiz app aims to revolutionize the process of learning and knowledge assessm
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
-<img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/QuizApp/blob/main/mockup.png?raw=true" width="100%">
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,4 +46,40 @@ The quiz app aims to revolutionize the process of learning and knowledge assessm
     <a href="https://www.figma.com/file/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?type=design&node-id=0%3A1&mode=design&t=EX7A2y4X85Lp2uCY-1" target="_blank">Here</a>
  </i></h4>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
+
+
+  <h1 align="center"> Thanks for watching  <img src="https://github.com/urfavcrow23/QuizApp/blob/main/giphy.gif?raw=true" width="20">  </h1>
+<h2 align="center"><b> You Can Contact Me Through </b><img src="https://media3.giphy.com/media/Wmj4ixgVsG93H54HBp/giphy.gif?cid=6c09b952sq91syprnvf2tzzg8tz43lbn6dnasnuauqxutzry&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"> </h2>
+<br>
+<br>
+
+
+
+
+<a href="https://www.facebook.com/Karim.El.Refai" target="_blank">
+<img src="https://img.shields.io/badge/facebook:  El Refai-%2300acee.svg?color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
+</a>
+<br>
+<br>
+
+<a href="https://linkedin.com/in/karim-el-refai-03748a249" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Karim El Refai-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+
+<br>
+
+
+<br>
+
+<a href="mailto:kariemasaad992@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Karim El Refai-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+
+
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
