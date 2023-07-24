@@ -32,7 +32,7 @@ The quiz app aims to revolutionize the process of learning and knowledge assessm
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
-<img src="https://github.com/urfavcrow23/QuizApp/blob/main/mockup.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -48,7 +48,7 @@ The quiz app aims to revolutionize the process of learning and knowledge assessm
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-  <h1 align="center"> Thanks for watching  <img src="https://github.com/urfavcrow23/QuizApp/blob/main/giphy.gif?raw=true" width="20">  </h1>
+  <h1 align="center"> Thanks for watching  <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/giphy.gif?raw=true" width="20">  </h1>
 <h2 align="center"><b> You Can Contact Me Through </b><img src="https://media3.giphy.com/media/Wmj4ixgVsG93H54HBp/giphy.gif?cid=6c09b952sq91syprnvf2tzzg8tz43lbn6dnasnuauqxutzry&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"> </h2>
 <br>
 <br>
