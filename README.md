@@ -1,12 +1,12 @@
-<h2 align="left"><img src="https://miro.medium.com/v2/resize:fit:1280/0*dy4moFCDSQXWaMF6.gif" width="50"><b>Quiz Arena</b></h2>
-<h4 align="left"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"
+<h2 align="left"><b>Quiz Arena</b></h2>
+
   
   <i> Is a mobile application created as a part of the challenge cards for <b>"Brmjha Internship"</b> and it's to enhance the learning experience by creating an interactive platform for users to test their knowledge and acquire new information. The app aims to bridge the gap between traditional learning methods and modern technology, providing an engaging and accessible way to assess and expand knowledge. </i></h4>
-<h1 align="center"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/Phone-screens-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Features </h2>
+<h2 align="left"> Features </h2>
 <h4 align="left">  <i> 
   
  1. User Registration and Profiles: Users can create accounts with unique profiles to personalize their experience. This allows for score tracking and the ability to compete with friends or other app users. <br><br>
@@ -24,19 +24,19 @@
  </i> </h4>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Conclusion </h2>
+ <h2 align="left"> Conclusion </h2>
  <h4><i>
 The quiz app aims to revolutionize the process of learning and knowledge assessment by providing an engaging and interactive platform for individuals to test their knowledge and expand their understanding. With its user-friendly interface, diverse question bank, multiple game modes, and social features, the app is designed to make learning fun, accessible, and customizable.
  </i></h4>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
+<h2 align="left"> UI Overview </h2>
 <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/monophy.gif?raw=true" width="25">  Project Link </h2>
+ <h2 align="left"> Project Link </h2>
   <h4><i> You can see the entire application from the prototype by clicking on the following link --> 
     <a href="https://www.figma.com/proto/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?page-id=0%3A1&type=design&node-id=50-3024&viewport=-4949%2C-1134%2C0.55&t=TG1qLrNwFSYmTbvt-1&scaling=scale-down&starting-point-node-id=50%3A2773&mode=design" target="_blank">Here</a>
  </i></h4>
